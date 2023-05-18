@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@700&family=Edu+TAS+Beginner:wght@700&family=Montserrat:wght@600&family=Playfair+Display&family=Ubuntu:wght@300&display=swap');
+.my-nav{
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  /* top: 0px; */
+  z-index: 1;
+
+}
+.navbar-brand{
+  color:white;
+  font-size: 3rem;
+  font-family: 'Montserrat', sans-serif;
+}
+.carousel-caption{
+  transform: translateY(-50%);
+  bottom: initial;
+  top: 70%;
+}
+.logoimg{
+  height: 120px;
+  margin-left: 3rem;
+  margin-top: 2rem;
+}
+.item{
+  color:white;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+.avatarimg{
+  height: 70px;
+}

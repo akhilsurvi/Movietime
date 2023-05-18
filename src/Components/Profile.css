@@ -1,0 +1,15 @@
+.profile_divi{
+    color: white;
+    /* text-align: center; */
+}
+.mail{
+    background-color: gray;
+    padding: 8px;
+    /* text-align: center; */
+}
+.longbutt{
+    width: 100%;
+}
+.currentbutt{
+    background-color: gray;
+}

@@ -1,0 +1,19 @@
+.Form_class{
+    background-color: black;
+    padding: 85px;
+    margin: auto;
+    /* position: absolute; */
+    /* left:0; */
+    /* right: 0; */
+    margin: auto;
+    left:35%;
+    right: 35%;
+    width: 400px;
+    max-width: 400px;
+    text-align: center;
+    z-index: 1;
+}
+.inp{
+    width: 200px;
+    text-align: center;
+}
